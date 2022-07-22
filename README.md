@@ -18,7 +18,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charonxyz&theme=algolia" alt="lypt0x" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charonxyz&theme=algolia" alt="charonxyz" /></p>
 
 <br>
 <br>
@@ -82,7 +82,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charonxyz&layout=compact&theme=algolia" alt="lypt0x" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charonxyz&layout=compact&theme=algolia" alt="charonxyz" /></a> </p>
 
 -----
 Credits: [7oSkaaa](https://github.com/7oSkaaa), [lypt0x](https://github.com/lypt0x)
