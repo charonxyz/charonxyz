@@ -12,7 +12,7 @@
 
 ## :sassy_man:  About me
 - :computer: I am a Rustacean Developer.
-- :student: I’m currently learning: `Rust` and `Software Engineering`.
+- :student: I’m currently learning: `Rust`, `PHP` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 
 <br>
