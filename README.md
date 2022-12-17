@@ -14,6 +14,7 @@
 - :computer: I am a Rustacean, Java and PHP Developer.
 - :student: I’m currently learning: `Rust`, `PHP`, `C`, `JS`, `TS` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
+- __go beyond your limits__
 
 <br>
 
