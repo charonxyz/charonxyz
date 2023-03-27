@@ -46,6 +46,10 @@
   <a href="https://www.rust-lang.org/" target="_blank"> 
     <img alt="Rust" src="https://img.shields.io/badge/Rust-orange.svg?style=plastic&logo=rust&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://create-react-app.dev/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square">
+  </a>
 </p>
 
  ### 👉 Software & Tools
