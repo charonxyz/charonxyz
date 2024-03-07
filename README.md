@@ -12,7 +12,7 @@
 
 ## :sassy_man:  About me
 - :computer: I am a Rustacean, Java and React Developer.
-- :student: I’m currently learning: `React`, and `Software Engineering`.
+- :student: I’m currently learning: `React` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - _go beyond your limits_
 
