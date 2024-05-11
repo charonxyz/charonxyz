@@ -12,7 +12,7 @@
 
 ## :sassy_man:  About me
 - :computer: I am a Rustacean, Java and React Developer.
-- :student: I’m currently learning: `React` and `Software Engineering`.
+- :student: I’m currently learning: `Lua` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - _go beyond your limits_
 
@@ -49,6 +49,10 @@
   &emsp;
   <a href="https://create-react-app.dev/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square">
+  </a>
+  &emsp;
+  <a href="https://www.lua.org/" target="_blank">
+    <img alt="Lua" src="https://img.shields.io/badge/Lua-blue?style=plastic&logo=lua&logoColor=white">
   </a>
 </p>
 
