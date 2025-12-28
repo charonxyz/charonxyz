@@ -12,7 +12,7 @@
 
 ## :sassy_man:  About me
 - :computer: I am a Rustacean, Java and React Developer.
-- :student: I’m currently learning: `Lua` and `Software Engineering`.
+- :student: I’m currently coding at EnderTime.NET
 - :nerd_face: Always `learning new things`.
 - _go beyond your limits_
 
